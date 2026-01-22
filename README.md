@@ -119,3 +119,5 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 ---
 
 *Fait avec ❤️ par Georges Camara - Développeur Fullstack*
+
+l'ien portfolio: https://lespros-informatique.github.io/georges-portfolio/
